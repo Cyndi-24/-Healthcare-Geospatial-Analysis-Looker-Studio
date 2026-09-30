@@ -3,3 +3,7 @@
 ## Introduction
 
 This Looker Studio project uses geospatial analysis to examine healthcare visits, chronic disease burden, and healthcare facility distribution across locations in India, identifying geographic patterns in healthcare demand and service distribution.
+
+## Objective
+
+The objective of this analysis is to identify geographic differences in healthcare demand, chronic disease burden, and facility distribution across India, highlighting locations with greater healthcare needs.
