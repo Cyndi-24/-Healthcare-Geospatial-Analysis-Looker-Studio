@@ -49,3 +49,23 @@ Maharashtra records the highest hypertension burden with 773,642 cases, while An
 ### 4. How are healthcare facilities distributed across states?
 
 Andhra Pradesh has the highest facility representation with 131 facilities, followed by Maharashtra with 126 and Tamil Nadu with 113. When considered alongside differences in visits and disease burden, facility counts alone do not establish whether capacity is sufficient, but they provide a basis for identifying states where demand and available healthcare infrastructure should be assessed together.
+
+## Recommendations
+
+- **Prioritize high-demand locations:** States and cities with consistently higher healthcare visits should receive greater attention in capacity and resource planning.
+
+- **Plan chronic disease services by condition:** The differing geographic patterns of hypertension and diabetes suggest that disease-management resources should reflect condition-specific burden rather than a uniform approach across states.
+
+- **Assess emergency-care demand separately from overall visits:** Since emergency and total visit patterns do not always align, emergency-care planning should consider emergency demand independently of overall healthcare utilization.
+
+- **Evaluate facility capacity alongside demand:** Facility counts should be considered together with healthcare visits and disease burden to identify locations where existing infrastructure may require further capacity assessment.
+
+## Limitations
+
+- States with larger populations may naturally record more healthcare visits and disease cases, so higher totals do not necessarily mean a greater health burden.
+- Some states have more healthcare facilities represented in the dataset, which may contribute to their higher visit and disease totals.
+- The number of facilities does not show how large or well-resourced they are, including differences in staffing, beds, or available services.
+
+## Conclusion
+
+The analysis shows how healthcare needs differ by location and provides useful insights for identifying where healthcare resources and services may require greater attention.
