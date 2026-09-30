@@ -25,8 +25,9 @@ The dataset was largely analysis-ready, requiring only minor preparation in Look
 - Configuring geographic dimensions to support state- and city-level analysis.
 
 ## Analysis and Visualization 
-
 An interactive Looker Studio dashboard was developed to visualize and explore the healthcare dataset across geographic locations in India.
+
+![image alt](https://github.com/Cyndi-24/-Healthcare-Geospatial-Analysis-Looker-Studio/blob/main/Geospace%20analysis/dashboard_image.png)
 
 ### Healthcare Overview
 
